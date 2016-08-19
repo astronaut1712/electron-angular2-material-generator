@@ -11,7 +11,7 @@
     "electron-angular2-generator"
   ],
   "author": "Quang <quang.astronaut@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.15.0",
     "yeoman-generator": "^0.24.1",
